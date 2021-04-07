@@ -11,7 +11,8 @@ In case of GitHub having rendering issues (see below), try coping the GitHub not
 Sorry, something went wrong. Reload?
 ```
 
-
+## Credits
+[Computer Science][computer-science-yt] YT channel.
 
 
 
@@ -21,3 +22,4 @@ Sorry, something went wrong. Reload?
 
 [colab]: https://colab.research.google.com
 [online-jupyter-viewer]: https://nbviewer.jupyter.org/
+[computer-science-yt]: https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA
